@@ -13,3 +13,5 @@ rgb(255, 255, 255)
 
 efecto dorado
 background: -webkit-linear-gradient(left, rgba(252,234,187,1) 0%, rgba(252,205,77,1) 25%, rgba(248,181,0,1) 51%, rgba(251,223,147,1) 100%);
+
+123456789
